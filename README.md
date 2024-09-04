@@ -12,7 +12,7 @@ This repository is designed to help you prepare for the AI-900 exam. It’s rela
 
 ---
 
-⭐ If you like this repo, please give it a star and share it with your friends or colleagues who are also preparing for the Azure AI-900 certification! 🚀
+⭐ If you like this repo, please give it a star and share it with your friends or colleagues who are also preparing for the Azure AI-900 certification!
 
 
 

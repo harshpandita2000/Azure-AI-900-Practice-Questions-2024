@@ -5,16 +5,16 @@ This repository is designed to help you prepare for the AI-900 exam. It’s rela
 
 **Official Website:** [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
 
-# Practice Questions
+
 **Disclaimer:** These practice questions are designed to resemble the style and difficulty of the actual exam questions but are only indicative and not a comprehensive list. They have not been transcribed from the real exam, in compliance with exam policy.
 
-> **Note:** Currently, there are 139 questions available. I will be adding more over time, so stay tuned!
+> **Note:** Currently, there are 139 questions available. I will be adding more over time, so stay tuned! If you notice any changes or improvements needed in the answers, kindly ping me. Your feedback is appreciated!
 
 ---
 
 ⭐ If you like this repo, please give it a star and share it with your friends or colleagues who are also preparing for the Azure AI-900 certification! 🚀
 
-If you notice any changes or improvements needed in the answers, kindly ping me. Your feedback is appreciated!
+
 
 ---
 <h5>1. Which Azure service is used for creating and deploying machine learning models?</h5>
